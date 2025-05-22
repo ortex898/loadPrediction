@@ -1,4 +1,4 @@
-# loadPrediction
+# Loan Prediction ML Model
 Loan Approval Prediction Using Artificial Neural Networks (ANN)
 
 
